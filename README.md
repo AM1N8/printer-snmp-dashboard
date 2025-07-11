@@ -297,5 +297,4 @@ Create RESTful endpoints to query printer status programmatically.
 - [SNMP4J Documentation](https://www.snmp4j.org/)
 - [snmpsim Documentation](https://snmpsim.readthedocs.io/)
 - [RFC 1157 - SNMP Specification](https://tools.ietf.org/html/rfc1157)
-- [Printer MIB Documentation](https://www.pwg.org/standards.html)#
-- 
+- [Printer MIB Documentation](https://www.pwg.org/standards.html)
